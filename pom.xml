@@ -33,7 +33,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 
-        <quarkus.version>1.2.0.Final</quarkus.version>
+        <quarkus.version>1.10.5.Final</quarkus.version>
 
         <maven.assembly.version>3.1.0</maven.assembly.version>
         <maven.buildnumber.version>1.4</maven.buildnumber.version>
